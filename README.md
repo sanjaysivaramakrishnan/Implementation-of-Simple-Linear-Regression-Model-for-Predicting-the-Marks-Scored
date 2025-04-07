@@ -70,7 +70,20 @@ model.predict(x)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+### Data:
+![image](https://github.com/user-attachments/assets/33afaa2e-969c-4b20-a1f2-1428c9fab79c)
+### X:
+![image](https://github.com/user-attachments/assets/bc649ee9-acb3-43ee-82d6-a145ed3be371)
+### Y:
+![image](https://github.com/user-attachments/assets/f2809743-1ea3-4553-bacf-28c46b5a1af6)
+### Model:
+![image](https://github.com/user-attachments/assets/4579ba1b-27bb-4771-bd67-8a1d8d7376b0)
+### Error analysis:
+![image](https://github.com/user-attachments/assets/9ed5941b-b67d-4b91-872f-922d1c402be9)
+### Visualization:
+![image](https://github.com/user-attachments/assets/c5a012f8-aca9-4b54-9e02-6f8fdaa22595)
+### Predictive System:
+![image](https://github.com/user-attachments/assets/c43bcdc2-6c63-494f-abbf-4805d186aa58)
 
 
 ## Result:
